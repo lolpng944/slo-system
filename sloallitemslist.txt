@@ -15,7 +15,7 @@
 -Star Outfit (B W)-760-A008-B011
 -Star Outfit (Multicolored)-130-A009-B012
 -The Rock-35-A020-
--Glowing Hero-150-A021-B023
+-Glowing Hero-200-A021-B023
 
 every outfit which is currently in the game
 
